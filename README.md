@@ -14,6 +14,6 @@ Some tips - If you want to get Window ID's, Window Sizes, Process names or more,
 
 ------
 
-I'm not sure if it's an issue with AHK, or the script itself, but sometimes the coordinates of some of the programs are 5-6 pixels out of where they should be. After some thinking, I think that this includes the drop shadow around edges of programs, but this isn't something that I've tested.
+I'm not sure if it's an issue with AHK, or the script itself, but sometimes the coordinates of some of the programs are 5-6 pixels out of where they should be. After some thinking, I think that this includes the drop shadow around edges of programs, but this isn't something that I've tested because this is currently in the "works for me, so I don't care" region of projects.
 
-Spotify, and Streamlabels seem to have this weird quirk, where you need to get the ID of the process window in a slightly round about way, there's included code for how to deal with that, and should be good to copy paste in those cases just with Tweaks.
+Spotify, and StreamLabels seem to have this weird quirk, where you need to get the ID of the process window in a slightly round about way, there's included code for how to deal with that, and should be good to copy paste in those cases just with Tweaks.
